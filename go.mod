@@ -1,11 +1,11 @@
 module github.com/grokify/awesomely
 
-go 1.25.0
+go 1.26.0
 
-require github.com/grokify/mogo v0.73.2
+require github.com/grokify/mogo v0.74.4
 
 require (
 	github.com/huandu/xstrings v1.5.0 // indirect
-	golang.org/x/exp v0.0.0-20260212183809-81e46e3db34a // indirect
-	golang.org/x/text v0.34.0 // indirect
+	golang.org/x/exp v0.0.0-20260410095643-746e56fc9e2f // indirect
+	golang.org/x/text v0.36.0 // indirect
 )
