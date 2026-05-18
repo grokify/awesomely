@@ -2,7 +2,7 @@ module github.com/grokify/awesomely
 
 go 1.26.0
 
-require github.com/grokify/mogo v0.74.4
+require github.com/grokify/mogo v0.74.5
 
 require (
 	github.com/huandu/xstrings v1.5.0 // indirect
